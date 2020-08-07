@@ -8,6 +8,7 @@ spring-cloud学习使用
 在浏览器访问
 1、localhost:8764/hello?name=xxx
 2、localhost:8765/hello?name=xxx
-3、localhost:8769/hello?name=xxx&token=xx
+3、localhost:8769/api-a/hello?name=xxx&token=xx
+4、localhost:8769/api-b/hello?name=xxx&token=xx
 
 欢迎各位大佬帮忙指正
